@@ -102,12 +102,18 @@ Right-click res → New → Image Asset
 
 ---
 
-## Author
-Developed as part of an Android development learning project.
+## Members
+- Sinovuyo Bonte(223010225)
+- Philani Ndlovu(202384756)
+- Asive Hohwana(202249082)
+- Mihlali Mlonzi(223037452)
+- Sinovuyo Mgqibisa(
+- Asenathi Tinise(202230751)
+- Lilo Mbiko(
 
 ---
 
-## 📄 License
+## License
 This project is for educational purposes only.
 
 
