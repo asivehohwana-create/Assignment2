@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#E1BEE7</color> <!-- Light Purple -->
+    <color name="purple_dark">#6200EE</color> <!-- Darker Purple for buttons or headers -->
+</resources>

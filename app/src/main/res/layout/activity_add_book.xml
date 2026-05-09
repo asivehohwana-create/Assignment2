@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Book Title"/>
+
+    <EditText
+        android:id="@+id/etSeller"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Seller Name"/>
+
+    <EditText
+        android:id="@+id/etCopies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Number of Copies"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/etPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Price"
+        android:inputType="numberDecimal"/>
+
+    <EditText
+        android:id="@+id/etBank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Banking Information"/>
+
+    <Button
+        android:id="@+id/btnSubmitBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit Book"/>
+
+</LinearLayout>
