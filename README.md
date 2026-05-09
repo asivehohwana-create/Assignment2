@@ -1,4 +1,4 @@
-📚 Textbook Management App (Android)
+Textbook Management App (Android)
 
 Overview
 This is an Android application built using **Java in Android Studio** that allows users to manage a collection of textbooks. The app demonstrates key concepts of **Object-Oriented Programming (OOP)** and multi-activity navigation in Android.
@@ -29,13 +29,13 @@ Technologies Used
 Project Structure
 
 com.example.textbookapp/
-├── MainActivity.java
-├── HomeActivity.java
-├── AddBookActivity.java
-├── ViewBooksActivity.java
-├── BookActions.java
-├── Textbook.java
-├── Person.java
+-MainActivity.java
+-HomeActivity.java
+-AddBookActivity.java
+-ViewBooksActivity.java
+-BookActions.java
+-Textbook.java
+-Person.java
 
 
 ---
