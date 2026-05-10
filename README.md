@@ -107,9 +107,9 @@ Right-click res → New → Image Asset
 - Philani Ndlovu(202384756)
 - Asive Hohwana(202249082)
 - Mihlali Mlonzi(223037452)
-- Sinovuyo Mgqibisa(
+- Sinovuyo Mgqibisa(223013919)
 - Asenathi Tinise(202230751)
-- Lilo Mbiko(
+- Lilo Mbiko(202323378)
 
 ---
 
