@@ -1,7 +1,7 @@
 Textbook Management App (Android)
 
 Overview
-This is an Android application built using **Java in Android Studio** that allows users to manage a collection of textbooks. The app demonstrates key concepts of **Object-Oriented Programming (OOP)** and multi-activity navigation in Android.
+This is an Android application built using Java in Android Studio that allows users to manage a collection of textbooks. The app demonstrates key concepts of Object-Oriented Programming (OOP) and multi-activity navigation in Android.
 
 Users can add books, view stored books, and navigate through different screens in a structured way.
 
@@ -69,19 +69,14 @@ The application uses a custom launcher icon located in:
 es/mipmap/ic_launcher
 
 
-You can replace it using a **512x512 PNG image** via:
-
-Right-click res → New → Image Asset
-
-
 ---
 
 ## How to Run the Project
 
-1. Open the project in **Android Studio**
+1. Open the project in Android Studio
 2. Allow Gradle to sync
 3. Select an emulator or physical device
-4. Click **Run**
+4. Click Run
 
 ---
 
